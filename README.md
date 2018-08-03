@@ -6,7 +6,7 @@ A python script to re-order VAMAS blocks for use in XPS Analysis software such a
    region and survey of the same pass energy for a sample is on the same row. It is very limited and will only
    work for VAMAS files where every scan set up is similar, so have a little play. It works well when you have
    hundreds scans and have to manually set the index of each block to the same row for each sample.
-   David O'Connor 2018
+   
 
 ## Comments:
   v0.3 is set up so that you can run it from CMD in windows.<br />
