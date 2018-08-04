@@ -16,5 +16,5 @@ A python script to re-order VAMAS blocks for use in XPS Analysis software such a
 ## Instructions for use:
   1. Put the .vms file you want to reindex into the same folder as VAMASreindex_v0.3.py
   2. Open up the command line, then navigate to the folder the file is in using the "cd" command, "dir" and tab will help.
-  3. Yype the following in: python VAMASreindex_v0.3.py YOURFILENAME.vms
+  3. Type the following in: python VAMASreindex_v0.3.py YOURFILENAME.vms
  
