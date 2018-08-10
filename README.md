@@ -8,8 +8,9 @@ A python script to re-order VAMAS blocks for use in XPS Analysis software such a
    hundreds scans and have to manually set the index of each block to the same row for each sample.
    
 ## Comments:
-  v0.4 is set up so that you can compile it with pyinstaller and run a standalone .exe
+  v0.4 is set up so that you can compile it with pyinstaller and run a standalone .exe <br />
   Python Version: 3.6.1<br />
+  Compiled exe is included.
   
 ## Instructions for use:
   1. Put the .vms file you want to reindex into the same folder as VAMASreindex_v0.4.exe
